@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Smart Thermostat App</string>
+    <string name="temperature">Temperature</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="fahrenheit">°F</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+
+
+
+
+</resources>
